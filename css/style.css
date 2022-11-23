@@ -278,9 +278,18 @@ margin-bottom: 12px;
 	justify-content: space-around;
 	padding-bottom: 200px;
 }
-.column {
+.food__column {
+	font-weight: 400;
 	font-size: 20px;
 	line-height: 27px;
+	color: #000000;
+}
+
+.food__column p{
+	font-weight: 400;
+	font-size: 40px;
+	line-height: 54px;
+	color: #BC9060;
 }
 
 
